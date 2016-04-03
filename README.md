@@ -6,8 +6,8 @@ The manner in which you will be doing this is similar to the [jsExercises assign
 First, we need to check out the project.
 
 * On this page, click **Fork** in the top right to get your own copy
-* Then open up Cloud9, and clone this repository (it’s called **imageResizerRevisited**)
-  into your workspace. Leave this workspace as **Custom**.
+* Then open up Cloud9. Go to Respositories, find **imageResizerRevisited** and click **Clone to edit**.
+* Name the Workspace as **image-resizer-revisited**, leave all other settings as default and click **Create workspace**.
 * Open `image-resizer.js` in your project workspace.
 
 ## You Do
